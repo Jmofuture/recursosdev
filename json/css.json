@@ -1,0 +1,52 @@
+{
+    "cssPages": [
+        {
+            "id": "css01",
+            "title": "Pigment",
+            "thumbnail": "../assets/image/html/htmlChecker.png",
+            "short_description": "Pigment es una herramienta que te permite explorar colores utlilizando la ilumunación y pigmrntos.",
+            "url": "https://pigment.shapefactory.co/",
+            "genre": "Css Color"
+        },
+        {
+            "id": "css02",
+            "title": "Validador de HTML",
+            "thumbnail": "../assets/image/html/htmlChecker.png",
+            "short_description": "Verificador para código HTML, verifica la sintaxis del código.",
+            "url": "https://validator.w3.org/nu/#textarea",
+            "genre": "HTML"
+        },
+        {
+            "id": "css03",
+            "title": "Validador de HTML",
+            "thumbnail": "../assets/image/html/htmlChecker.png",
+            "short_description": "Verificador para código HTML, verifica la sintaxis del código.",
+            "url": "https://validator.w3.org/nu/#textarea",
+            "genre": "HTML"
+        },
+        {
+            "id": "css04",
+            "title": "Validador de HTML",
+            "thumbnail": "../assets/image/html/htmlChecker.png",
+            "short_description": "Verificador para código HTML, verifica la sintaxis del código.",
+            "url": "https://validator.w3.org/nu/#textarea",
+            "genre": "HTML"
+        },
+        {
+            "id": "css05",
+            "title": "Validador de HTML",
+            "thumbnail": "../assets/image/html/htmlChecker.png",
+            "short_description": "Verificador para código HTML, verifica la sintaxis del código.",
+            "url": "https://validator.w3.org/nu/#textarea",
+            "genre": "HTML"
+        },
+        {
+            "id": "css06",
+            "title": "Validador de HTML",
+            "thumbnail": "../assets/image/html/htmlChecker.png",
+            "short_description": "Verificador para código HTML, verifica la sintaxis del código.",
+            "url": "https://validator.w3.org/nu/#textarea",
+            "genre": "HTML"
+        }
+    ]
+}

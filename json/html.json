@@ -1,0 +1,12 @@
+{
+"htmlPages": [{
+        "id": "html01",
+        "title": "Validador de HTML",
+        "thumbnail": "../assets/image/html/htmlChecker.png",
+        "short_description": "Verificador para código HTML, verifica la sintaxis del código.",
+        "url": "https://validator.w3.org/nu/#textarea",
+        "genre": "HTML"
+    }
+
+]
+}
